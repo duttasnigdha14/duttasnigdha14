@@ -19,11 +19,11 @@ Here are some of the projects I have worked on:
 
 🚲 **Bicycle Share Analysis:**
 
-Conducted a comprehensive case study on bicycle share analysis, exploring ridership patterns, user demographics, and demand prediction. Utilized Python, SQL, and data visualization tools to gain meaningful insights from the data.
+Conducted a comprehensive case study on bicycle share analysis, exploring ridership patterns, user demographics, and demand prediction. Utilized Excel, SQL, and data visualization tools to gain meaningful insights from the data.
 
 🌍 **COVID-19 Global Data Set Analysis:**
 
-Analyzed the global COVID-19 data set to understand the spread of the virus, identify hotspot regions, and visualize trends over time. Leveraged Python, data manipulation techniques, and data visualization libraries to present valuable findings.
+Analyzed the global COVID-19 data set to understand the spread of the virus, identify hotspot regions, and visualize trends over time. Leveraged EXcel, data manipulation techniques, and data visualization libraries to present valuable findings.
 
 **🏥 Healthcare Data Analysis:** 
 
