@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-Snigdha Dutta
+
+### Snigdha Dutta
 👩‍💻 Final Year Electronics and Communication Engineering Student | Data Analyst Enthusiast
 
 Hey there! 👋 Welcome to my GitHub profile! I'm Snigdha Dutta, a passionate and dedicated final year student pursuing Electronics and Communication Engineering. I am thrilled to venture into the fascinating field of data analytics and aspire to contribute my skills and knowledge to make meaningful insights from data.
@@ -31,4 +31,3 @@ Personal Website: www.snigdhadutta.com
 Let's connect and collaborate on exciting data-driven projects! 🤝
 
 Feel free to explore my repositories and don't forget to leave a ⭐️ if you find anything interesting or helpful! Thank you for visiting! 😊
--->
