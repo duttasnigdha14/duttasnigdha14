@@ -39,7 +39,7 @@ Developed a C++ project for a vaccine management system, ensuring efficient trac
 
 Email: snigdha12000320049@gmail.com
 
-LinkedIn: Snigdha Dutta
+LinkedIn: [Snigdha Dutta](https://www.linkedin.com/in/snigdha-dutta-bba89520a)
 
 Let's connect and collaborate on exciting data-driven projects! 🤝
 
